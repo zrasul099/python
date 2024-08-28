@@ -1,0 +1,15 @@
+print(len("hello"))
+print(type("hello"))
+print(type(2))
+print(type(True))
+print(type(4.43234))
+print(int("123") + int("234"))
+
+name_of_user = input("enter the name")
+lenth_of_name = len(name_of_user)
+print(name_of_user + str(lenth_of_name))
+
+print(11+11)
+print(22-11)
+print(22 / 11)
+print(22 * 11)
