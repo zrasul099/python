@@ -9,9 +9,11 @@ if height > 120:
     if age <= 12:
         bill = 5
         print(bill)
-    elif age >= 12 & age <= 18:
+    elif 12 <= age <= 18:
         bill = 7
         print(bill)
+    elif 45 <= age <= 55:
+        print("free")
     else:
         bill = 10
         print(bill)
