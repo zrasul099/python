@@ -7,3 +7,22 @@ def my_fanction():
     print("bye")
 
 my_fanction()
+
+
+def action():
+    move()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+
+
+for i in range(0, 6):
+    action()
