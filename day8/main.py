@@ -9,3 +9,4 @@ def greet_with_data(name):
     print(f"hello{name}")
 
 greet_with_data("Rasul")
+print("heloo")
