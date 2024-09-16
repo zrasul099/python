@@ -10,3 +10,4 @@ def greet_with_data(name):
 
 greet_with_data("Rasul")
 print("heloo")
+print("hello")
