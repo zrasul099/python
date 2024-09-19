@@ -22,4 +22,4 @@ life_in_weeks(56)
 def greet_with(name,location):
     print(f"hello {name}")
     print(f"hello {location}")
-greet_with("Rasul","chicago hello")
+greet_with("Rasul","chicago hello Rasul")
