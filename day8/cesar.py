@@ -8,3 +8,4 @@ def encrypt(original_text,shipt_amount ):
        alphabet.index(letter)
 
 print()
+print()
