@@ -12,4 +12,23 @@ programming_dictionary = {
 for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
-print("hello")
+
+dictionary = {
+    "france":["paris","marsel","lion"],
+    "germany":["berlin","dordmund"]
+
+}
+print(dictionary["germany"])
+nested_list = ["a","b",["c","d"]]
+
+print(nested_list[2][1])
+
+dictionary = {
+    "france":{
+        "visited_cities": ["paris","marsel","lion"],
+        "total": 2
+    },
+    "germany":["berlin","dordmund"]
+
+}
+print(dictionary["france"]["visited_cities"][2])
