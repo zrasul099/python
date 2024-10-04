@@ -32,3 +32,4 @@ dictionary = {
 
 }
 print(dictionary["france"]["visited_cities"][2])
+print()
